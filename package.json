@@ -1,0 +1,7 @@
+{
+  "name": "seqgen",
+  "version": "0.0.1",
+  "description": "Numeric sequence generator",
+  "repository": "github.com/selvan/seqgen",
+  "main": "lib/seqgen.js"
+}
